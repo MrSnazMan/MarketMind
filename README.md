@@ -3,7 +3,7 @@
 AI-powered stock research assistant. Search a ticker to view key financial metrics and ask an AI chat assistant questions about the company, grounded in real financial data — not just the model guessing.
 
 ## Status
-🚧 In development — project scaffold complete, core features in progress.
+*Disclaimer: In development; project scaffold complete, core features in progress.
 
 ## Tech stack
 - **Backend**: FastAPI (Python)
