@@ -45,5 +45,20 @@ npm run dev
 \`\`\`
 Runs at `http://localhost:5173`.
 
+## Testing the backend connection
+If you need to test the backend API from a browser or another local client, start it from the backend folder with:
+
+```
+cd backend
+venv\Scripts\activate
+uvicorn main:app --reload
+```
+
+Once it is running, the API will be available at:
+- `http://127.0.0.1:8000/api/stock/AAPL`
+- `http://127.0.0.1:8000/docs`
+
+To stop the connection when you are done, press `Ctrl+C` in the terminal running Uvicorn. If the server was launched in a separate terminal and you need to end it forcefully, close that terminal window or stop the process from the terminal.
+
 ## License
 TBD
