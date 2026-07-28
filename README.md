@@ -1,6 +1,6 @@
 # MarketMind
 
-AI-powered stock research assistant. Search a ticker to view key financial metrics and ask an AI chat assistant questions about the company, grounded in real financial data — not just the model guessing.
+Research any stock with an AI assistant that’s backed by real financial data. Search a ticker to instantly see key metrics, then ask questions about the company and get answers grounded in its actual financials. Rest assured, no guessing involved.
 
 ## Status
 *Disclaimer: In development; project scaffold complete, core features in progress.
